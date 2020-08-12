@@ -8,6 +8,6 @@ Hello, my name is Alex Hamilton. I am a recent graduate of Southern New Hampshir
 
 - [*Dictionary Sorter*](Movie-Sorter/) - Sort a pre-defined list of movie dicts in Python by either title, director or year
 
-- [*RESTful API*](RESTful API/) - PyMongo API that includes CRUD endpoints for manipulating specific MongoDB
+- [*RESTful API*](RESTful-API/) - PyMongo API that includes CRUD endpoints for manipulating specific MongoDB
 
 - [*Simple Crossover Algotrading Bot*](Crossover-Bot/) - Moving-Average crossover trading bot in MQL 5 **Not intended for commercial use**
