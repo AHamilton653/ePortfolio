@@ -2,7 +2,7 @@
 
 Hello, my name is Alex Hamilton. I am a recent graduate of Southern New Hampshire University with a Bachelor's in Computer Science. I was previously enrolled in University of Massachusetts, Lowell and St. Bonaventure University. In this protfolio I aim to demonstrate a variety of programming skills such as object-oriented software development, algorthmic principles and database manipulation. Follow the links to view the code and its accompanying narrative.
 
-- [*Professional-Self Assessment*](https://github.com/AHamilton653/ePortfolio/blob/f2ff5141ed2e5a57005b14ca46dd6ae2084e1a84/Alex_Hamilton_Professional_Self_Assessment.docx) - Summary of skills learned through capstone course
+- [*Professional-Self Assessment*](https://github.com/AHamilton653/ePortfolio/tree/d3124a905defab672944677f8cc0979bdd204315/Self-Assessment) - Summary of skills learned through capstone course
 
 - [*Console Video Poker*](https://github.com/AHamilton653/ePortfolio/tree/558a9dedbf2eacacf47bfb0d56c231e08d9df0b7/Poker-Game) - Single round game of 5-card draw against AI dealer in C++
 
