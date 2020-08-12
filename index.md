@@ -6,6 +6,8 @@ Hello, my name is Alex Hamilton. I am a recent graduate of Southern New Hampshir
 
 - [*Console Video Poker*](Poker-Game/) - Single round game of 5-card draw against AI dealer in C++
 
+-[*Code Review*](Code-Review/) - Example code review for console poker game (35 min.)
+
 - [*Dictionary Sorter*](Movie-Sorter/) - Sort a pre-defined list of movie dicts in Python by either title, director or year
 
 - [*RESTful API*](RESTful-API/) - PyMongo API that includes CRUD endpoints for manipulating specific MongoDB
