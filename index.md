@@ -9,3 +9,5 @@ Hello, my name is Alex Hamilton. I am a recent graduate of Southern New Hampshir
 - [*RESTful API*](https://github.com/AHamilton653/ePortfolio/tree/558a9dedbf2eacacf47bfb0d56c231e08d9df0b7/RESTful-API) - PyMongo API that includes CRUD endpoints for manipulating specific MongoDB
 
 - [*Simple Crossover Algotrading Bot*](https://github.com/AHamilton653/ePortfolio/tree/558a9dedbf2eacacf47bfb0d56c231e08d9df0b7/Crossover-Bot) - Moving-Average crossover trading bot in MQL5 **Not intended for commercial use**
+
+- [*PHP eCommerce*](https://github.com/AHamilton653/ePortfolio/tree/a7fa93ae8372e062b9484deb06ecedff045c3e88/eCommerce) - example of PHP eCommerce API integration
